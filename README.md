@@ -1,2 +1,3 @@
 # Python101s
-Learning Python
+
+This repo contains Python Notebook files containing on the basics of Python.
